@@ -1,2 +1,23 @@
-# github-workflow-practice
-GitHub 工作流练习：Issue、分支与 Pull Request 的中文入门记录
+# GitHub 工作流练习
+
+这是一个用于学习 GitHub Issue、分支和 Pull Request 的独立练习仓库。
+
+## 常用概念
+
+- **Issue**：记录需要解决的问题或待办事项。
+- **分支（Branch）**：在独立版本中修改内容，完成后再合并。
+- **Pull Request（PR）**：提出修改，便于查看差异、讨论和合并。
+- **Merge**：把分支上的修改合并到目标分支。
+
+## 一次完整练习
+
+1. 创建 Issue，写清目标和完成标准。
+2. 创建新分支并修改文档。
+3. 提交修改，发起 Pull Request。
+4. 检查 Files changed 中的修改内容。
+5. 确认无误后合并 PR，并关闭已经完成的 Issue。
+
+## 使用边界
+
+此仓库用于个人练习。团队和生产项目应遵循各自的审查与分支保护规则。
+成就由 GitHub 自动判定，完成相关操作不代表徽章会立即显示。
